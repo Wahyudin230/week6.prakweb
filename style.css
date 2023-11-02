@@ -1,0 +1,66 @@
+body {
+  background-color: aqua;
+}
+#header {
+  background-color: burlywood;
+  text-align: center;
+  padding: 5px 5px 5px 5px;
+}
+#header h1 {
+  color: rgb(236, 118, 240);
+}
+#header blockquote {
+  background-color: orange;
+  border: 2px dotted;
+}
+.menu ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+}
+.menu a {
+  text-decoration: none;
+  color: rgb(187, 211, 193);
+}
+.gambar {
+  text-align: center;
+}
+.gambar {
+  width: 20%;
+}
+.koleksi {
+  text-align: center;
+}
+.koleksi img {
+  width: 20%;
+}
+.fp::first-letter {
+  color: rgb(0, 183, 255);
+  font-size: 40px;
+}
+body {
+  background-color: rgb(208, 230, 173);
+  font-family: 'Lucida Sans', Verdana, Sans-Serif;
+}
+h1 {
+  text-align: center;
+  color: rgb(103, 243, 103);
+}
+p {
+  text-align: justify;
+  width: fit-content;
+}
+.foto {
+  text-align: center;
+}
+.foto img {
+  width: 20%;
+}
+.promo {
+  color: rgb(238, 92, 92);
+}
+.cod {
+  background-color: rgb(176, 241, 101);
+  border: 2px dotted;
+}
